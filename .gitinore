@@ -1,0 +1,9 @@
+.env
+*.env
+*.sql
+*.dumps
+*.backup
+*.pgpass
+_pycache_/
+*._pycache_
+

@@ -1,0 +1,514 @@
+Question,Predicted Answer,Predicted Option
+"Trong mô hình nhà thông minh, IoT chủ yếu đóng vai trò gì?",B,Kết nối Internet và quản lý thiết bị từ xa
+"Năm 2010, công nghệ nào thường được sử dụng trong kiểm soát ra vào ngôi nhà thông minh?",B,RFID và nhận dạng khuôn mặt/vân tay
+Bộ cảm biến trong nhà thông minh thực hiện chức năng gì và bộ truyền động có vai trò gì?,B,"Bộ cảm biến lưu trữ dữ liệu, bộ truyền động hiển thị dữ liệu"
+Nội dung chính của bài báo nghiên cứu Public_001 về IoT trong xây dựng nhà thông minh là gì?,A,Giới thiệu các ứng dụng cụ thể của điện toán đám mây
+"Dựa vào thông tin trong tài liệu Public_001, hãy tính số bài báo trung bình mỗi lớp trong nghiên cứu được đề cập.",D,90-100
+"Theo tài liệu Public_002, học phần Bảo mật Web trang bị kiến thức về bộ rủi ro phổ biến nào?",D,NIST Cybersecurity Framework
+"Dựa trên tài liệu Public_002, mô tả học phần Cơ sở dữ liệu nâng cao, hãy liệt kê các loại CSDL không được đề cập trong nội dung học phần này.",D,CSDL quan hệ truyền thống
+Nêu chi tiết nội dung đào tạo về bảo mật web và bảo mật cơ sở dữ liệu trong tài liệu Public_002.,A,OWASP Top 10 / CSDL NoSQL
+Nhóm môn học trong tài liệu Public_002 tập trung cung cấp cho sinh viên kiến thức tổng quan về lĩnh vực nào?,B,"Công nghệ thông tin (CSDL, mạng, bảo mật, dữ liệu lớn, IoT, học máy)"
+"Trong tài liệu Public_002, đối với đoạn liệt kê các học phần từ số 47 đến 81, nếu các học phần này được trải đều trên 7 trang, trung bình mỗi trang mô tả bao nhiêu học phần?",C,7
+Điểm BLEU được dùng để đánh giá chất lượng bản dịch trong tài liệu Public_003 là gì?,B,Một loại dữ liệu song ngữ
+Công cụ nào được nhóm tác giả của tài liệu Public_003 sử dụng để huấn luyện các hệ dịch nơ ron?,D,Fairseq
+Điểm BLEU và công cụ huấn luyện hệ dịch nơ ron trong nghiên cứu này là gì?,C,Một phương pháp đánh giá tự động chất lượng dịch máy / TensorFlow
+Nội dung chính của tài liệu Public_003 là gì?,B,"Đề xuất phương pháp thích ứng miền mới cho dịch máy nơ ron Anh – Việt, tận dụng dữ liệu đơn ngữ ngoài miền để cải thiện chất lượng dịch"
+"Theo kết quả thử nghiệm, hệ dịch Adapt_System cải thiện bao nhiêu điểm BLEU so với Baseline_G trong miền pháp lý?",B,1.37
+Công nghệ in bê tông 3D được thực hiện theo quy trình nào?,A,Gia công cắt gọt vật liệu
+Công nghệ nào được phát triển tại Đại học Loughborough (Anh)?,A,Contour Crafting
+"Công nghệ in bê tông 3D nào vừa cho phép kiểm soát tốt cấu trúc sản phẩm, vừa sử dụng bê tông cốt liệu sợi tổng hợp cường độ cao?",D,FDM
+Nội dung chính của bài báo Public_004 là gì?,B,"Giới thiệu, phân tích ưu nhược điểm các công nghệ in bê tông 3D trong xây dựng, so sánh tính khả thi áp dụng ở Việt Nam"
+"Trong tài liệu, ưu điểm của công nghệ Contour Crafting so với Concrete Printing là gì?",D,Quy mô in lớn hơn
+OCR là viết tắt của gì trong bài báo này?,A,Optical Character Recognition
+"Giải pháp thử nghiệm tại Học viện Ngân hàng được lựa chọn là gì, theo tài liệu Public_005?",D,Tesseract
+"Công nghệ nào vừa cho phép máy tính tự động nhận biết ký tự trên hình ảnh, vừa có khả năng đọc hiểu dữ liệu chữ viết tay và chữ in?",C,Faster R-CNN
+Nội dung chính của bài báo là gì?,C,Xây dựng hệ thống ERP cho giáo dục
+"Theo tài liệu Public_005, tỷ lệ sai số theo đơn vị từ của FPT.AI Reader trong thử nghiệm là bao nhiêu?",C,0.27
+"Theo tài liệu Public_006, các nhiệm vụ và quyền hạn của các thiết chế quản trị đại học ở Việt Nam được quy định trong luật nào?",B,Luật Giáo dục đại học sửa đổi số 34/2018
+"Theo tài liệu Public_006, cơ quan nào có thẩm quyền cao nhất trong trường đại học?",A,Hội đồng trường
+"Làm thế nào để ứng dụng công nghệ số trong quản trị đại học có thể bao quát toàn bộ hoạt động của nhà trường kịp thời và hỗ trợ ra quyết sách quản lý, điều hành hiệu quả?",B,Quản trị đại học số
+Nội dung chính của bài báo Public_006 là gì?,B,"Phân tích thực trạng và đề xuất giải pháp ứng dụng công nghệ số trong công tác quản trị đại học ở Việt Nam, hướng tới đại học số"
+"Theo số liệu trong tài liệu, đến nay ngành giáo dục đã số hóa dữ liệu của khoảng bao nhiêu giáo viên và học sinh?",C,"1,0 triệu giáo viên, 20 triệu học sinh"
+ISO 15189:2022 áp dụng cho đối tượng nào?,D,Nhà sản xuất thiết bị y tế
+"Theo tiêu chuẩn trong tài liệu Public_007, “khiếu nại” được định nghĩa như thế nào?",C,"Sự không hài lòng của cá nhân/tổ chức liên quan đến hoạt động hoặc kết quả xét nghiệm, nơi dự kiến có phản hồi"
+"Trong các tiêu chuẩn ISO/IEC liên quan đến đo lường và đánh giá sự phù hợp, tiêu chuẩn nào cung cấp từ vựng quốc tế về đo lường và định nghĩa thuật ngữ độ chệch?",A,ISO/IEC 17025
+Nội dung chính của tiêu chuẩn ISO 15189:2022 là gì?,B,"Đưa ra yêu cầu về chất lượng và năng lực đối với phòng xét nghiệm y tế, bao gồm hệ thống quản lý, quy trình xét nghiệm và đánh giá công nhận"
+"Theo Public_007, “khoảng tham chiếu sinh học” thường được định nghĩa ở mức bao nhiêu phần trăm giá trị tập trung?",A,0.95
+Giám đốc phòng xét nghiệm theo ISO 15189:2022 có thể ủy quyền nhiệm vụ cho ai?,B,"Nhân viên có trình độ và năng lực, được lập thành văn bản ủy quyền"
+ISO 15189:2022 yêu cầu thiết lập và theo dõi những chỉ số chất lượng nào?,C,"Số lượng mẫu bị từ chối, số lỗi khi nhận mẫu, số báo cáo kết quả sửa, tỷ lệ trả kết quả đúng hạn"
+"Theo tài liệu Public_008, các yêu cầu đúng khi lựa chọn, vận hành và bảo dưỡng thiết bị phòng xét nghiệm là gì?",A,"Thiết bị phải được vận hành bởi nhân viên đào tạo, được ủy quyền, có năng lực; được bảo trì theo hướng dẫn nhà sản xuất; có biện pháp ngăn điều chỉnh ngoài ý muốn; và thiết bị bị lỗi phải được dán nhãn “không hoạt động” cho đến khi xác minh chính xác"
+Nội dung chính của phần tiêu chuẩn trong tài liệu là gì?,B,"Đưa ra yêu cầu về cơ cấu, quản trị, nhân lực, cơ sở vật chất, thiết bị, thuốc thử và quá trình xét nghiệm trong phòng xét nghiệm y tế"
+"Nếu phòng xét nghiệm có 500 mẫu xét nghiệm trong tháng, trong đó có 25 mẫu bị từ chối, tỷ lệ từ chối mẫu là bao nhiêu?",C,0.1
+Học phần Những nguyên lý cơ bản của Chủ nghĩa Mác – Lênin thuộc khối kiến thức nào?,D,Hệ thống thông tin
+Học phần Nhập môn ngành CNTT trang bị cho sinh viên những kỹ năng nào ngoài kiến thức chuyên ngành?,C,"Kỹ năng mềm như làm việc nhóm, thuyết trình, tìm kiếm thông tin, phương pháp học đại học"
+"Học phần nào vừa giúp sinh viên năm nhất làm quen với môi trường đại học và kiến thức cơ bản ngành CNTT, vừa rèn luyện các kỹ năng mềm và chuẩn mực đạo đức cần thiết để trở thành kỹ sư công nghệ thông tin?",C,Nhập môn ngành CNTT
+Nội dung chính của tài liệu là gì?,B,"Mô tả vắn tắt nội dung và khối lượng các học phần bắt buộc, cơ sở và chuyên ngành trong chương trình đào tạo CNTT"
+"Theo quy định tại tài liệu Public_009, nếu một học phần có cấu trúc 3(2:1:6) thì số tiết lý thuyết, thực hành và tự học lần lượt là bao nhiêu?",D,"3 LT, 0 TH, 6 tự học"
+"Theo tiêu chuẩn ISO 15189:2022, việc lưu giữ hồ sơ phòng xét nghiệm nhằm mục đích chính nào?",C,Truy xuất được kết quả xét nghiệm trong khoảng thời gian cần thiết hoặc theo quy định
+"Khi xảy ra sự không phù hợp, hành động đầu tiên mà phòng xét nghiệm phải thực hiện theo ISO 15189:2022 là gì?",B,Đình chỉ hoạt động của phòng xét nghiệm vô thời hạn
+"Theo hướng dẫn về kiểm soát hồ sơ, phòng xét nghiệm phải đảm bảo điều gì khi sửa đổi hồ sơ?",A,"Các sửa đổi phải có khả năng truy nguyên đến phiên bản trước hoặc các quan sát ban đầu, bao gồm ngày, giờ, nội dung thay đổi và nhân viên thực hiện"
+Nội dung chính của phần 8 trong tiêu chuẩn ISO 15189:2022 là gì?,C,"Yêu cầu hệ thống quản lý, bao gồm tài liệu, hồ sơ, kiểm soát rủi ro, cải tiến, đánh giá và xem xét"
+"Theo tài liệu Public_010, nếu một phòng xét nghiệm thiết lập cấu trúc quản lý 5 mục tiêu và mỗi mục tiêu yêu cầu số hành động cải tiến tối thiểu theo quy định của tài liệu, tổng số hành động tối thiểu là bao nhiêu?",D,20
+Mạng GAN (Global Area Network) là gì?,C,"Mạng toàn cầu, kết hợp nhiều mạng con, ví dụ Internet"
+Thành phần nào có chức năng giao tiếp giữa máy tính và đường truyền trong mạng máy tính?,B,Vỉ mạng (Network Interface Card – NIC)
+Mạng máy tính được phân loại theo những tiêu chí nào và Internet ban đầu ra đời từ mục đích gì?,D,Mạng được phân loại theo loại đường truyền và phần mềm; Internet ban đầu ra đời để phục vụ giáo dục phổ thôngComplete
+Nội dung chính của tài liệu Public_011 là gì?,B,"Trình bày khái niệm, lịch sử phát triển, phân loại, thành phần, kiến trúc mạng máy tính và Internet"
+"Với một mạng kết nối 200 máy tính và có bán kính hoạt động 500m trong một tòa nhà, phân loại mạng chính xác nhất của nó là gì?",A,LAN (Local Area Network)
+Hệ điều hành có nhiệm vụ gì?,B,"Quản lý tài nguyên, điều khiển thiết bị, quản lý chương trình và cung cấp dịch vụ cho người dùng"
+"Theo tài liệu, ký hiệu đại diện * trong tên tệp có ý nghĩa gì?",B,Đại diện cho số bất kỳ
+Hệ điều hành có những nhiệm vụ chính nào và phiên bản Windows nào cho phép đặt tên tệp dài tới 255 ký tự?,A,"Quản lý tài nguyên, điều khiển thiết bị, quản lý chương trình, giao tiếp với người dùng; Windows 95"
+Nội dung chính của tài liệu là gì?,B,"Trình bày khái niệm, quản lý tệp, hệ lệnh, hệ điều hành Windows (từ MS-DOS, Windows 95 đến Windows XP)"
+"Nếu Windows XP quản lý cho phép đặt tên tập tin dài tối đa 255 ký tự, còn MS-DOS chỉ cho phép tối đa 8 ký tự, thì Windows XP dài hơn bao nhiêu ký tự?",B,200 ký tự
+Thế hệ máy tính điện tử nào sử dụng bóng đèn điện tử chân không?,D,Thế hệ 4 (1974–nay)
+Thuật ngữ “Tin học” (Informatics) lần đầu tiên được đề xuất bởi ai?,B,Karl Steinbuch
+Thông tin khác dữ liệu ở điểm nào và quá trình xử lý thông tin theo máy tính gồm những bước nào?,A,"Thông tin có ý nghĩa, dữ liệu là sự kiện thô; xử lý gồm Input – Process – Output"
+Nội dung chính của tài liệu là gì?,B,"Giới thiệu các khái niệm cơ bản về dữ liệu, thông tin, tri thức; lịch sử phát triển máy tính; khái niệm tin học, CNTT và ICT"
+"Nếu một máy tính thế hệ 2 có tốc độ trung bình 50.000 phép tính/giây, thì nó nhanh gấp bao nhiêu lần so với máy thế hệ 1 tốc độ trung bình 1.000 phép tính/giây?",C,50 lần
+Bit là viết tắt của từ gì?,C,Binary integration tool
+"Trong hệ đếm thập lục phân, ký tự “F” biểu diễn giá trị thập phân nào?",D,16
+"Trong máy tính, mọi dữ liệu được biểu diễn dưới dạng gì và đơn vị thông tin nhỏ nhất là gì?",B,Dưới dạng nhị phân (chuỗi bit); đơn vị nhỏ nhất là bit
+Nội dung chính của tài liệu là gì?,B,"Trình bày biểu diễn dữ liệu trong máy tính: các hệ đếm, số nguyên, số thực, dữ liệu ký tự, số hóa tín hiệu và tính toán số học"
+"Nếu dùng 8 bit để biểu diễn số nguyên không dấu, giá trị lớn nhất có thể biểu diễn là bao nhiêu?",D,256
+Khối nào trong CPU có nhiệm vụ thực hiện các phép tính số học và logic?,B,Khối số học và logic (ALU)
+Bộ nhớ nào lưu trữ chương trình hệ thống và không bị mất dữ liệu khi tắt máy?,B,RAM
+CPU gồm những bộ phận chính nào và bộ nhớ chính của máy tính được chia thành những loại nào?,A,"Khối điều khiển, bộ nhớ ngoài, bàn phím; chỉ RAM"
+Nội dung chính của tài liệu là gì?,D,Phân tích hệ điều hành Windows
+"Nếu một CPU có 36 bit địa chỉ, dung lượng tối đa của bộ nhớ chính mà nó quản lý được là bao nhiêu?",C,64 GB
+Tiêu chuẩn TCVN 9395:2012 áp dụng cho loại cọc nào?,B,Cọc khoan nhồi bê tông cốt thép có đường kính ≥ 60 cm (trừ công trình địa chất đặc biệt)
+Dung dịch khoan bentonite có vai trò chính gì trong thi công cọc khoan nhồi?,A,"Giữ ổn định thành hố khoan, ngăn sụt lở và đưa mùn khoan ra ngoài"
+"Theo TCVN 9395:2012, tiêu chuẩn này áp dụng cho loại cọc nào và từ đường kính bao nhiêu trở lên?",B,"Cọc khoan nhồi, từ 30 cm"
+Nội dung chính của tiêu chuẩn TCVN 9395:2012 là gì?,C,"Quy định về thi công, kiểm tra chất lượng, nghiệm thu và an toàn lao động trong xây dựng cọc khoan nhồi"
+"Nếu trong quá trình khoan, cao độ dung dịch khoan phải luôn cao hơn mực nước ngầm ít nhất 1,5 m, giả sử mực nước ngầm ở -10 m thì cao độ dung dịch khoan tối thiểu phải đạt bao nhiêu?",B,"-8,5 m"
+"Theo TCVN 5574:2018, tính toán kết cấu bê tông và bê tông cốt thép cần được thực hiện dựa trên những trạng thái giới hạn nào?",D,Không yêu cầu xét trạng thái giới hạn
+Các loại bê tông nào được phép sử dụng khi thiết kế kết cấu theo TCVN 5574:2018?,D,Bê tông tự ứng suất
+"Theo TCVN 9379:2012, tính toán kết cấu bê tông và bê tông cốt thép cần được thực hiện theo những trạng thái giới hạn nào và phải đảm bảo điều gì trong suốt thời hạn sử dụng công trình?",D,Trạng thái giới hạn về biến dạng; đảm bảo không xuất hiện ứng suất trước
+Nội dung chính của tiêu chuẩn TCVN 5574:2018 là gì?,B,"Nguyên tắc thiết kế, tính toán độ bền, ổn định, biến dạng, nứt và quy định về vật liệu cho kết cấu bê tông, bê tông cốt thép"
+"Nếu một dầm bê tông cốt thép có nhịp 6 m, theo TCVN 5574:2018 độ võng tối đa cho phép là 1/150 nhịp, giá trị võng lớn nhất cho phép là bao nhiêu?",A,20 mm
+Tiêu chuẩn TCVN 5574:2018 áp dụng cho những loại bê tông nào?,C,"Bê tông nhẹ, bê tông tổ ong"
+Tiêu chuẩn TCVN 5574:2018 không áp dụng để thiết kế loại kết cấu nào sau đây?,C,"Kết cấu liên hợp thép – bê tông, bê tông cốt sợi, công trình thủy công, cầu…"
+"Theo TCVN 9379:2012, tính toán kết cấu bê tông và bê tông cốt thép cần được tiến hành theo những trạng thái giới hạn nào và phải đảm bảo điều gì trong suốt thời hạn sử dụng công trình?",C,Trạng thái giới hạn thứ hai; đảm bảo công trình không có biến dạng
+Nội dung chính của phần yêu cầu chung đối với kết cấu bê tông và bê tông cốt thép trong TCVN 5574:2018 là gì?,B,"Quy định các yêu cầu về an toàn, điều kiện sử dụng, độ bền lâu, yêu cầu cấu tạo và tính toán"
+"Nếu một cấu kiện bê tông làm việc trong môi trường xâm thực, theo TCVN 5574:2018, cần đảm bảo thêm yêu cầu gì ngoài an toàn và sử dụng bình thường?",B,Giảm kích thước tiết diện để tiết kiệm vật liệu
+Hệ thống chống sét theo TCVN 9385:2012 bao gồm mấy phần chính?,B,3
+Bộ phận nào trong hệ thống chống sét có nhiệm vụ thu sét trực tiếp?,A,"Hệ thống thu sét (kim thu sét, dây dẫn trên mái…)"
+Quốc gia nào là nước đầu tiên công bố Kế hoạch chiến lược trí tuệ nhân tạo quốc gia và vào năm nào?,D,"Nhật Bản, năm 2019"
+Nội dung chính của TCVN 9385:2012 là gì?,B,"Quy định thiết kế, thi công, kiểm tra, bảo trì hệ thống chống sét cho công trình"
+"Một công trình cao 30 m cần bảo vệ chống sét trực tiếp. Theo bán kính bảo vệ của kim thu sét (r = 1,5h), bán kính bảo vệ tối đa là bao nhiêu?",A,30 m
+Chiều dày màng khô của lớp phủ chống cháy được xác định bằng cách nào?,A,Quan sát trực quan sau khi phủ
+Loại đầu đo nhiệt nào được ưu tiên sử dụng trong thử nghiệm cấu kiện thép?,A,Loại “J” trần không bọc
+"Theo quy định, chiều dày màng khô của vật liệu bảo vệ được đo bằng nguyên tắc nào và loại đầu đo nhiệt nào được ưu tiên sử dụng khi thử nghiệm trên cấu kiện thép?",B,Nguyên tắc quang học; đầu đo nhiệt loại N
+Nội dung chính của tài liệu là gì?,D,Tiêu chuẩn quản lý an toàn phòng cháy chữa cháy tại công trường
+"Theo quy định, cần bao nhiêu phép đo chiều dày tối thiểu trên dầm chịu tải?",C,88 phép đo
+Bộ mã chuẩn nào đã được chọn cho tiếng Việt trong CNTT?,D,UTF-16
+"Trong xử lý ngôn ngữ, bài toán nào có mục tiêu chuyển văn bản thành tiếng nói?",C,Tổng hợp tiếng nói (speech synthesis)
+"Theo tài liệu Public_021, khi đo chiều dày màng khô của vật liệu bảo vệ, nguyên tắc nào được áp dụng và liệu có yêu cầu về đường kính vỏ bọc tối thiểu ưu tiên của đầu đo nhiệt liên quan đến quy trình này không?",D,"Nguyên tắc thủy lực; đường kính vỏ bọc tối thiểu 2,0 mm"
+Nội dung chính của tài liệu là gì?,B,"Trình bày khái niệm, tình hình nghiên cứu, thách thức và hướng phát triển của xử lý tiếng Việt trong CNTT"
+"Theo đánh giá, hiện có bao nhiêu phần trăm dữ liệu không cấu trúc trong tổng lượng dữ liệu của loài người?",B,0.7
+Tiêu chuẩn TCVN xxxx:202x được xây dựng dựa trên tiêu chuẩn quốc tế nào?,D,IEC 584-1
+Chiều dày lớp bảo vệ chịu lửa được định nghĩa như thế nào?,C,"Chiều dày khô của lớp phủ hoặc tổng các lớp trong hệ bảo vệ (không tính sơn lót, sơn phủ, hệ đỡ)"
+"Theo tài liệu Public_022, các thử nghiệm chịu lửa được áp dụng cho những loại tiết diện thép nào và không áp dụng cho loại nào?",C,"Áp dụng cho tiết diện chữ I, H, C, T, rỗng; không áp dụng cho thanh/que đặc hoặc tiết diện rỗng nhồi bê tông"
+Nội dung chính của tiêu chuẩn TCVN xxxx:202x là gì?,B,Quy định phương pháp thử nghiệm để đánh giá hiệu quả của hệ bọc bảo vệ chịu lửa cho cấu kiện thép trong công trình
+"Theo quy định, mẫu thử nghiệm dầm chịu tải phải chịu tải trọng bằng bao nhiêu phần trăm sức kháng mô men thiết kế?",B,0.5
+Chiều dày vật liệu bọc bảo vệ dạng bản hoặc tấm được phép sai lệch tối đa bao nhiêu % so với giá trị trung bình?,B,0.15
+"Đối với lớp phủ dạng phản ứng, độ dày trung bình được xác định như thế nào?",A,Đo tổng chiều dày lớp sơn phủ
+Hệ điều hành có những nhiệm vụ chính nào và phiên bản Windows nào cho phép đặt tên tệp dài tới 255 ký tự?,A,"Quản lý tài nguyên, điều khiển thiết bị, quản lý chương trình, giao tiếp với người dùng; Windows 95"
+Nội dung chính của tài liệu Public_023 là gì?,B,"Hướng dẫn quy trình xác định chiều dày, khối lượng riêng, lựa chọn và lắp đặt mẫu thử nghiệm đối với hệ bảo vệ chịu lửa"
+Khối lượng riêng của vật liệu bảo vệ dạng thụ động được phép sai lệch tối đa bao nhiêu % so với giá trị trung bình?,C,0.15
+"Theo tài liệu Public_024, thực phẩm được định nghĩa là gì?",B,"Hỗn hợp các chất hóa học có nguồn gốc từ thực vật và động vật, được con người sử dụng qua đường tiêu hóa nhằm mục đích dinh dưỡng"
+Thực phẩm giàu protein thường có trong nhóm nguyên liệu nào?,C,"Nguyên liệu động vật (thịt, thủy sản) và một số loại đậu, nấm"
+Thực phẩm là gì? Thực phẩm chức năng dùng chủ yếu để làm gì?,A,"Chỉ là đồ uống, chỉ giải khát"
+Nội dung chính của phần “Khái quát về thực phẩm và công nghệ thực phẩm” là gì?,A,"Trình bày khái niệm, phân loại, mục đích sử dụng, các chỉ tiêu chất lượng của thực phẩm và mối quan tâm của người tiêu dùng"
+"Nếu một người tiêu dùng mua 100g bánh mì (giàu glucid ~50%) và 100g cá (giàu protein ~20%), thì lượng glucid và protein người đó nạp vào lần lượt là bao nhiêu gam?",D,70g glucid và 25g protein
+Định nghĩa của chiếu xạ thực phẩm trong tài liệu Public_025 là gì?,B,Quá trình sử dụng tia bức xạ điện từ hoặc dòng electron tác động lên thực phẩm để gây biến đổi có lợi
+Tia bức xạ nào hiện nay được sử dụng phổ biến trong công nghiệp thực phẩm?,D,Tia tử ngoại
+Chiếu xạ thực phẩm về mặt cơ sở khoa học là gì? Và mục đích công nghệ chủ yếu hiện nay của chiếu xạ thực phẩm là gì?,B,"Là quá trình dùng hóa chất khử trùng thực phẩm, chủ yếu để tạo màu sắc"
+Nội dung chính của phần “Chiếu xạ trong công nghiệp thực phẩm” là gì?,A,"Trình bày cơ sở khoa học, mục đích công nghệ, biến đổi vật lý – hóa học – sinh học của nguyên liệu, và ứng dụng chiếu xạ trong bảo quản, chế biến thực phẩm"
+"Nếu một loại trái cây được xử lý bằng liều chiếu xạ 2 kGy, trong khi mức 1 kGy không làm mất vitamin C còn mức 2–4 kGy làm giảm mạnh vitamin C, thì loại trái cây đó có nguy cơ bị giảm giá trị dinh dưỡng như thế nào?",D,Mất toàn bộ khoáng chất và protein
+Xơ dệt được phân loại theo nguồn gốc thành mấy nhóm chính?,B,2 nhóm: xơ tự nhiên và xơ hóa học
+"Theo tài liệu Public_026, thành phần chính của xơ len là gì?",C,Keratin (chiếm khoảng 90%)
+Vật liệu dệt là gì? Và chúng được phân loại chủ yếu dựa theo tiêu chí nào?,C,Là ngành công nghiệp bao bì; phân loại theo kích thước và độ bền
+Nội dung chính của chương 1 trong tài liệu `Public_026` là gì?,B,"Trình bày khái niệm, phân loại và tính chất cơ bản của xơ, sợi và sản phẩm dệt"
+Nếu một sợi có chiều dài 1000 m và khối lượng 20 g thì chỉ số Tex của sợi đó bằng bao nhiêu?,D,25 Tex
+Thành phần chính của xơ bông là gì?,B,Xenlulozơ (trên 90%)
+Nhiệt độ chuyển mềm của len thường nằm trong khoảng nào?,B,80–90°C
+Xenlulô là gì và vải sợi gốc xenlulô có ưu điểm gì?,C,"Xenlulô là este hóa học nhân tạo, vải sợi xenlulô không thấm nước"
+Nội dung chính của tài liệu Public_027 là gì?,B,"Trình bày chi tiết thành phần hóa học, tính chất cơ lý, hóa học và ứng dụng của các loại xơ tự nhiên (bông, len, tơ tằm, amiăng)"
+"Nếu sợi bông có độ ẩm hoàn toàn khô là 8 g, khi hút ẩm đạt khối lượng 8,8 g thì độ ẩm tương đối của sợi là bao nhiêu?",B,0.08
+Ai là những nhà khoa học được ghi nhận phát minh ra transistor lưỡng cực vào năm 1947?,D,"James Clerk Maxwell, Michael Faraday, Enrico Fermi"
+Transistor NPN có các cực được sắp xếp như thế nào?,C,"Emitter–P, Base–P, Collector–N"
+Transistor được tạo thành từ mấy lớp bán dẫn và ba người nào được ghi nhận là những nhà phát minh ra nó?,A,"Transistor được tạo từ ba lớp bán dẫn và do John Bardeen, William Shockley và Walter Brattain phát minh"
+Nội dung chính của tài liệu Public_028 là gì?,B,"Trình bày cấu tạo, ký hiệu, nguyên lý hoạt động của transistor lưỡng cực (BJT) và ứng dụng của nó"
+"Nếu bộ phát (Emitter) bị pha tạp nặng, Base pha tạp nhẹ và Collector pha tạp vừa phải, thì vùng nghèo kiệt sẽ mở rộng nhiều hơn về phía nào?",D,Không thay đổi
+Vật liệu nào phổ biến nhất được sử dụng làm chất bán dẫn cơ bản?,D,Antimon (Sb)
+Quá trình thêm tạp chất vào chất bán dẫn để cải thiện tính dẫn điện gọi là gì?,C,Khuếch tán
+Chất bán dẫn tinh khiết là gì và hiện tượng pha tạp (doping) có tác dụng gì?,C,Là vật liệu chỉ có lỗ trống; doping làm giảm điện trở về 0
+Nội dung chính của tài liệu là gì?,B,"Giới thiệu khái niệm chất bán dẫn, phân loại (P-type, N-type), cơ chế dẫn điện, hiện tượng dòng điện và mối nối P–N"
+"Nếu một tinh thể silicon có tỷ lệ doping là 1 nguyên tử tạp chất trên 10 triệu nguyên tử Si, thì khi thêm 100 nguyên tử tạp chất, số nguyên tử Si xấp xỉ bao nhiêu?",C,1 tỉ (10⁹)
+Đơn vị đo điện dung của tụ điện là gì?,A,Farad (F)
+Hằng số điện môi ε₀ trong chân không có giá trị bao nhiêu?,C,"6,67 × 10⁻¹¹ Nm²/kg²"
+Tụ điện là gì và điện dung của tụ được tính theo công thức nào?,B,Tụ điện là linh kiện tích trữ năng lượng cơ học; điện dung C = I/V
+Nội dung chính của tài liệu Public_030 là gì?,B,"Trình bày khái niệm, cấu tạo, nguyên lý hoạt động, tham số chính, công thức tính và ứng dụng của tụ điện"
+"Một tụ điện phẳng có A = 10 m², d = 5 m, điện môi là không khí (εr = 1). Hãy tính điện dung C.",C,"8,85 × 10⁻¹¹ F"
+Đơn vị đo điện trở là gì?,C,Ampere (A)
+Ký hiệu điện trở theo tiêu chuẩn IEC có dạng nào?,A,Đường ngoằn ngoèo (zigzag)
+Điện trở là gì và tại sao được gọi là linh kiện thụ động?,B,"Là linh kiện điện tử thụ động, gây ra trở kháng làm cản trở dòng điện mà không tạo ra năng lượng"
+Nội dung chính của tài liệu Public_031 là gì?,B,"Trình bày khái niệm, đơn vị, ký hiệu, cấu tạo, ý nghĩa, công thức tính và cách mắc nối tiếp của điện trở trong mạch điện"
+"Một mạch nối tiếp gồm R1 = 2Ω, R2 = 4Ω, R3 = 6Ω, dòng điện I = 4A. Hãy tính điện áp toàn mạch.",A,24V
+Nguồn điện nào thường tạo ra điện áp một chiều (DC)?,D,Ổn áp xoay chiều
+Định luật Ohm được phát biểu như thế nào?,C,Điện áp tỉ lệ thuận với dòng điện và điện trở
+Dòng điện một chiều (DC) là gì và định luật Ohm liên quan như thế nào?,A,"Là dòng điện thay đổi liên tục theo hai hướng, tỉ lệ thuận với điện áp"
+Nội dung chính của tài liệu là gì?,B,"Giới thiệu khái niệm, định luật Ohm, dòng điện một chiều, dòng điện xoay chiều, dạng sóng và ứng dụng của dòng điện"
+Một mạch có điện áp 12V và điện trở 6Ω. Hãy tính dòng điện chạy qua mạch theo định luật Ohm.,C,6A
+Ai là người phát minh ra pin điện đầu tiên vào năm 1800?,A,Michael Faraday
+Dòng điện tử trong thực tế chảy theo chiều nào?,D,Không xác định được
+Nguồn gốc dòng điện và hai giả thuyết về chiều dòng điện là gì?,B,"Dòng điện xuất phát từ chuyển động của electron giữa nguyên tử, có hai giả thuyết: dòng quy ước (từ dương sang âm) và dòng điện tử (từ âm sang dương)"
+Nội dung chính của phần “Giới thiệu về điện” trong tài liệu Public_033 là gì?,B,"Khái niệm nguyên tử, electron tự do, sự hình thành dòng điện và ba đặc tính cơ bản của điện"
+"Nếu một dầm dây dẫn có dòng điện 2000 mA chạy qua, giá trị này tương ứng với bao nhiêu ampe?",B,"0,02 A"
+"Theo tài liệu Public_034, photodiode hoạt động hiệu quả nhất khi được phân cực như thế nào?",C,Không cần phân cực
+Ai là người đầu tiên đề xuất ý tưởng về phototransistor?,A,Michael Faraday
+Photodiode hoạt động như thế nào và khác gì với phototransistor?,B,"Photodiode khuếch đại dòng điện ánh sáng, còn phototransistor chỉ phát hiện ánh sáng"
+Nội dung chính của tài liệu Public_034 là gì?,B,"Giới thiệu photodiode, phototransistor, optocoupler: cấu tạo, nguyên lý, ứng dụng"
+Một photodiode PIN cho dòng điện 1 µA trong điều kiện chiếu sáng phòng. Một phototransistor cùng điều kiện có dòng lớn hơn khoảng bao nhiêu lần?,B,10 lần
+MAE loss còn có tên khác là gì,D,Negative-log loss
+"Theo tài liệu Public_035, điều gì xảy ra nếu learning rate quá nhỏ?",A,Thuật toán hoạt động bình thường
+"Trong bối cảnh linear regression đơn biến, mô hình được biểu diễn ra sao và mục tiêu của bài toán khi được mô hình hóa là gì?",B,"Đường thẳng y = ax + b.
+Cực tiểu hóa cost function"
+Những thành phần chính nào cấu thành mô hình hồi quy tuyến tính?,B,Mô hình (model)
+Một trình tối ưu linear regression ghi nhận cost function tăng. Hành động hợp lý tiếp theo là gì?,B,Không làm gì cả
+"Trong tài liệu Public_036, đâu không phải một ứng dụng của Image segmentation được đề cập?",D,Quản lý ra vào ở bãi đỗ xe
+Mạng U-Net có mấy phần chính?,A,Ba
+"Theo tài liệu Public_036, có bao nhiêu loại bài toán segmentation và đó là những loại nào?",A,Hai. Meaning segmentation và object segmentation
+"Theo tài liệu Public_036, mạng U-Net có những hạn chế hoặc điểm yếu nào khi áp dụng trong bài toán Image segmentation?",B,Có cơ chế kết nối các lớp có cùng kích thước để tránh gradient vanishing
+"Xác định padding (p) và stride (s) khi tiến hành transposed convolution với input 4x4, kernel 3x3 để cho ra output 9x9",D,"p = 1, s = 1"
+"Trong ví dụ ở đầu tài liệu, đâu không phải là một mô tả ảnh được giới thiệu?",B,"""Công nhân xây dựng mặc áo bảo hộ cam đang làm việc trên đường"""
+Mô hình skip-gram ban đầu có bao nhiêu lớp ẩn (hidden layer)?,B,Hai
+Co-occurrence matrix có tính chất đối xứng gì và kích thước của ma trận này là bao nhiêu (với V là kích thước từ điển)?,D,Đối xứng dọc. 2V x V
+Khẳng định nào dưới đây không đúng với bối cảnh bài toán trong tài liệu Public_037?,B,Phương pháp one-hot encoding cho word embedding vẫn còn hiệu quả
+Đặc điểm của một vector không phải là one-hot encoding là gì?,B,"[1, 0, 1, 1]"
+"Trong số các mô hình mạng nơ-ron được đề cập trong tài liệu Public_038, mô hình nào không phải là một dạng của Mạng Nơ-ron Hồi quy (RNN)?",C,Many to one
+Sinh mô tả ảnh thuộc vào dạng RNN nào?,A,One to many
+"Theo tài liệu Public_038, câu output của mô hình seq2seq sẽ có thêm mấy token và đó là những token nào?",B,"Bốn. <START>, <END>, <START_PARA> và <END_PARA>"
+"Trong bối cảnh dịch máy, đâu là cách hiểu ""sản phẩm trung gian"" phù hợp với seq2seq?",B,Tổng hợp tần suất các từ trong câu input
+"Theo tài liệu Public_038, khẳng định nào dưới đây là đúng với cơ chế attention?",B,Attention sử dụng ánh xạ key-value làm cơ sở duy nhất để hoạt động
+Đâu không phải là một ứng dụng của GAN được nêu trong phần đầu tiên của tài liệu Public_039?,B,"""Dịch ảnh"" (image-to-image translation)"
+GAN là viết tắt của?,C,Graphic Artificial Network
+"GAN gồm bao nhiêu thành phần mạng và tên gọi của chúng, theo đúng thuật ngữ, là?",D,Một. Artist
+Tóm tắt cách hoạt động của GAN?,B,"Generator sẽ sinh ảnh giả, Discriminator sẽ chọn ra ảnh thật giữa ảnh giả và một ảnh thật (nhưng không biết là thật). Hai mô hình sẽ đối đầu nhau"
+Đâu là một ví dụ được coi là tương đồng với cách thức huấn luyện của GAN?,B,Giải một mê cung
+Khác biệt về kiến trúc của DCGAN và GAN?,B,"DCGAN sử dụng mạng tích chập, GAN sử dụng mạng neural thường"
+Input của Generator trong mạng tạo sinh đối kháng (GAN) là gì?,B,Vector một
+CIFAR-10 và Fashion-MNIST có bao nhiêu lớp (classes)?,A,32 x 32 x 3 và 28 x 28 x 1
+Điểm chung giữa DCGAN và Conditional GAN là?,C,Vai trò của Generator và Discriminator là như nhau ở cả hai hệ thống
+"Đâu là yếu tố tạo nên ""Conditional"" trong Conditional GAN?",A,"Generator sinh ảnh nửa chừng rồi đi qua một kiểm tra điều kiện, nếu không đạt thì thay đổi ảnh"
+Logistic regression có đầu ra là gì?,D,Giá trị phức
+Đâu là công thức của sigmoid?,C,1/(1 + exp(-z))
+"Hàm mất mát Cross-Entropy biến thiên ra sao khi nhãn thực y_i lần lượt là 1 và 0, ứng với các giá trị xác suất dự đoán p_i?",D,Đơn điệu giảm và đơn điệu tăng
+Điểm giống nhau cơ bản của logistic regression và linear regression là gì,C,Sử dụng chung một loss function
+"Theo nguyên lý xác suất được trình bày trong tài liệu Public_041, đâu không phải là một khẳng định hợp lý?",B,"Tổng xác suất của sự kiện ""tôi là nam"" và ""tôi là nữ"" là 100%"
+Mô hình neural network lấy cảm hứng từ?,A,Cơ chế thụ cảm của con người
+"Neural network bắt chước toàn bộ cơ chế hoạt động của hệ thần kinh, đúng hay sai?",C,nan
+Ký hiệu phổ biến cho số đặc trưng trong một điểm dữ liệu và số điểm dữ liệu lần lượt là?,D,D và N
+Bài toán về toán tử bit nào là minh chứng cho việc cần xây dựng nhiều hơn một lớp ẩn?,A,AND
+"Theo tài liệu Public_042, vì sao lại nên dùng hàm kích hoạt phi tuyến (non-linear activation)?",C,"Vì đây là xu hướng, thói quen của cộng đồng"
+Hệ màu RGB biểu diễn tất cả các màu khả kiến dưới dạng tổ hợp của ba màu gì?,D,"Vàng, xanh biển, tím đỏ"
+Tensor được chuyên dùng để mô tả dữ liệu theo mấy chiều,C,Nhiều hơn hai
+Một pixel của ảnh xám có thể nhận giá trị tối thiểu và tối đa lần lượt là?,C,0 và 255
+Phép tích chập (convolution) gồm ba yếu tố chính là kernel và hai thành phần nào?,A,Strike và patting
+"Sử dụng công thức quy đổi RGB sang ảnh xám (p = 0.299 * r + 0.587 * g + 0.114 * b, làm tròn tới hàng đơn vị) được đề cập trong tài liệu Public_043, hãy xác định giá trị pixel ảnh xám ứng với pixel ảnh RGB (100, 10, 1).",D,34
+Đâu là vấn đề trong xử lý ảnh mà CNN giải quyết tốt hơn so với các mạng nơ-ron truyền thống?,A,Lưu trữ tham số
+Pooling layer được thiết kế để?,A,"Giảm kích thước dữ liệu, bất luận mất mát thông tin"
+Pooling layer của VGG16 có kích thước ra sao và hàm pool là?,A,"2 x 2, avg"
+Tổng quát một CNN sẽ gồm hai phần chính nào sau đây?,A,Các lớp tích chập và các lớp truyền thống
+"Kết quả average pooling của hình vuông gồm 4 giá trị 15, 20, 30, 45 là?",D,32.5
+"Theo tài liệu Public_045, điểm chung của Transfer learning và data augmentation là gì?",B,Áp dụng cho tình trạng khan hiếm dữ liệu
+"Theo tài liệu Public_045, đâu không phải là một hình thức data augmentation cho ảnh?",A,Cắt và phóng to (crop and resize)
+"Theo tài liệu Public_045, khi tiến hành phân lớp với nhiều hơn hai lớp, có bao nhiêu chiến lược tiếp cận? Hình thức của chúng là gì?",A,Hai. Một model phân M lớp và M model phân biệt từng lớp
+"Trường hợp nào sau đây được đề xuất sử dụng Finetuning hơn là Feature extractor?
+I. Dữ liệu lớn, khác dữ liệu pretrain
+II. Dữ liệu nhỏ, khác dữ liệu pretrain
+III. Dữ liệu nhỏ, giống dữ liệu pretrain
+IV. Dữ liệu lớn, giống dữ liệu pretrain",A,I
+"Theo tài liệu Public_045, đâu không phải là khẳng định đúng giữa Finetuning và Feature extractor?",C,Feature extractor phù hợp khi dữ liệu thích nghi tương đối giống với dữ liệu của mô hình pretrained
+Lợi ích chính của vectorization là gì,B,Tiết kiệm bộ nhớ
+"Theo tài liệu Public_046, giá trị p trong dropout thể hiện điều gì?",B,Xác suất giữ một layer
+"Theo tài liệu Public_046, khái niệm tiếng Việt cho bias và variance là gì?",A,"Phương sai, độ lệch chuẩn"
+Đâu là mục tiêu chính của các phương pháp trong tài liệu Public_046?,B,Tránh các hiện tượng như overfitting và underfitting
+Một thuật toán gradient descent lấy ra 32 dữ liệu điểm mỗi lần tính đạo hàm thì thuộc loại gradient descent nào?,B,Mini-batch GD
+Input của bài toán object detection là?,C,Văn bản
+Vấn đề chính của R-CNN là?,B,Thời gian train lâu
+IoU phụ thuộc vào hai toán tử tập hợp nào và công thức là gì?,B,Intersection và Negation. I/(I + N)
+Các nguyên tắc cốt lõi và thành phần chính của các cách tiếp cận object detection là gì?,B,Region proposal
+"Trong ROI pooling, để tạo ra output có kích thước 4x4, mỗi vùng quan tâm (ROI) được chia thành bao nhiêu phân vùng con để thực hiện pooling?",A,1
+Bộ dữ liệu được sử dụng trong tài liệu Public_048 có bao nhiêu ảnh?,D,3500
+Mô hình được sử dụng để huấn luyện trong tài liệu Public_048 là gì?,D,YOLO-Tinyv4
+"Trong tài liệu Public_048, có bao nhiêu phương pháp tăng cường dữ liệu đã được dùng và gồm những thao tác nào?",D,Một. Lật
+Cách tiếp cận đã nêu trong tài liệu Public_048 có tiến hành đọc biển số hay không?,B,Có
+Phân loại của bài toán được mô tả trong tài liệu Public_048 là gì?,B,Object segmentation
+"Theo tài liệu Public_049, khái niệm được dùng để đại diện tập xác định của một biến là gì?",C,Loại dữ liệu
+"Theo tài liệu Public_049, thành phần nào không thuộc phạm vi quản lý của biến?",C,Giá trị biến
+Tên kiểu dữ liệu của ký tự ASCII và ký tự Unicode lần lượt là?,A,char và wchar
+Đâu không phải khẳng định đúng về các đặc tính của thuật toán được đề cập trong tài liệu Public_049?,A,"Thuật toán phải rõ ràng, không nhập nhằng"
+Phương trình toán học 3x + 4y + 5z = 6 có mấy biến?,B,Hai
+"Dựa vào tài liệu Public_050, từ nào điền vào chỗ trống sau: nếu hàm số f(x) bị ... bởi hằng số C nhân với g(x), ta nói f(x) có độ phức tạp O(g(x))?",C,Chặn trên và dưới
+"Theo nguyên tắc tổng, f1(x) + f2(x) có độ phức tạp là?",B,"O(min(g1(x), g2(x))"
+Độ phức tạp tuyến tính và giai thừa lần lượt có ký hiệu là?,A,O(1) và O(n)
+"Theo tài liệu Public_050, bước đầu tiên của quá trình tiếp cận bài toán là gì?",C,Xác định yêu cầu bài toán 
+Hai thuật toán được tiến hành kế tiếp nhau lần lượt có độ phức tạp O(n) và O(n^2). Độ phức tạp của chương trình là?,A,O(n)
+"Dựa trên tài liệu Public_051, khái niệm nào không thuộc về thuật toán sinh?",B,Cấu hình kết thúc
+Nội dung của tài liệu Public_051 không bao gồm bài toán nào?,D,Bài toán đặc thù
+Số hoán vị của N phần tử phân biệt là bao nhiêu và giá trị tương ứng khi N = 3 là?,C,"N^2, 9"
+Đâu là cốt lõi của thuật toán đệ quy?,D,Bài toán không thể giải trong thời gian đa thức
+"Bài toán liệt kê xâu nhị phân độ dài 6 phải trải qua bao nhiêu cấu hình, nếu biết số cấu hình cho độ dài n là 2^n?",D,2^12
+Đâu không phải một ví dụ duyệt được thực hiện bởi quay lui?,D,Duyệt từ đầu đến cuối mảng
+"Trong bài toán N quân hậu, quân hậu ở hàng thứ i phải thỏa mãn điều gì?",A,Không trùng cột với các quân hậu còn lại
+"Theo tài liệu Public_052, tên của thủ tục tiền xử lý và thủ tục chạy quay lui được gọi trong hàm main() lần lượt là gì?",C,Init() và Try(1)
+"Theo tài liệu Public_052, đâu không phải một bước trong quay lui?",C,Bước 3
+"Làm thế nào để áp dụng thuật toán quay lui để duyệt hoặc sinh ra một số tập con K phần tử cụ thể, thay vì duyệt toàn bộ các tập con K phần tử?",D,nan
+Những điều kiện tiên quyết nào áp dụng cho việc sắp xếp dữ liệu?,B,Đối tượng phải là số
+Vai trò của sắp xếp đối với hiệu quả của quá trình tìm kiếm dữ liệu là gì?,C,nan
+Cho biết số lượng thuật toán sắp xếp đơn giản được trình bày trong tài liệu Public_053 và tên của chúng?,C,"Hai. Selection sort, insertion sort"
+Độ phức tạp nhỏ nhất của Insertion Sort là?,D,O(sqrt(N))
+Vì sao Selection Sort có độ phức tạp O(N^2),D,Vì người đề xuất phát biểu vậy
+"Theo tài liệu Public_054, hành động chính của Bubble Sort là gì?",D,Tráo đổi min và max
+Đâu không phải một cách chọn khóa (pivot) điển hình trong Quick Sort,B,Dùng phần tử thứ ba
+"Trong heap, chỉ số node con trái và phải của node x lần lượt là? (node gốc có chỉ số 0)",B,"2i, 2i + 2"
+Đâu là cấu trúc heap ta nên dùng nếu muốn sắp xếp mảng giảm dần?,D,Mean-heap
+Đâu là điểm chung giữa Merge Sort và Quick Sort? Chọn một đáp án,D,Đều là các thuật toán sắp xếp ổn định (bảo toàn thứ tự xuất hiện các phần tử bằng nhau)
+Đâu không phải thuật toán tìm kiếm được nêu trong tài liệu?,D,Tìm kiếm nội suy
+"Theo tài liệu Public_055, thuật toán đơn giản nhất trong bốn thuật toán được trình bày là gì?",D,Tìm kiếm tuyến tính
+"Trong ngữ cảnh của tài liệu Public_055, kết quả trả về cụ thể (ví dụ: mã trạng thái, cấu trúc dữ liệu, giá trị) khi tìm kiếm 'thấy' và 'không thấy' một mục lần lượt là gì?",B,1 và -1
+Nhận định nào sau đây không đúng dựa trên nội dung của tài liệu Public_055?,A,Tìm kiếm Jumping rồi sẽ quay về tìm kiếm tuyến tính ở một bước nào đó
+"Dựa trên thông tin trong tài liệu Public_055 về tìm kiếm nhị phân hoàn thành trong logN bước, cho biết mảng đã sắp xếp gồm 2^8 phần tử sẽ cần bao nhiêu bước?",A,8
+"Theo tài liệu Public_056, thao tác nào dưới đây không được liệt kê là một thao tác cơ bản trên linked list?",B,Duyệt node
+Một node của danh sách liên kết đơn có mấy trường?,C,Bốn
+Tên của thao tác cập nhật và tìm kiếm một node trong cấu trúc dữ liệu lần lượt là gì?,A,Find và update
+Đâu không phải là đặc điểm của linked list?,C,Giải quyết bất cập về việc cấp phát bộ nhớ của mảng (array)
+"Muốn cập nhật trong linked list phần tử thứ 5 với giá trị 7, ta cần nhập vào khi gọi update() thứ tự giá trị nào cho pos và val?",C,7 5
+"Theo tài liệu Public_057, đâu không phải là một loại đồ thị được phân loại ở cấp dưới trong hệ thống phân loại đồ thị của tài liệu?",D,Giả đồ thị (pseudograph)
+Đồ thị được tạo thành bằng cách bổ sung một đỉnh nối với mọi đỉnh của đồ thị C_n được ký hiệu là?,D,C'_n
+Tên gọi riêng cho đỉnh bậc 0 và đỉnh bậc 1 trong đồ thị vô hướng là?,D,"Đỉnh cô lập, đỉnh lẻ"
+Tài liệu Public_057 mô tả những cách biểu diễn đồ thị nào?,A,Ma trận kề
+"Theo tài liệu `Public_057`, đồ thị bánh xe có bao nhiêu cạnh?",B,n^2
+"Theo tài liệu Public_058, đâu là một tên gọi khác của kiểm thử chức năng?",C,Kiểm thử hộp trắng
+Tập S biểu diễn các mẫu hành vi hoặc đặc tính động lực học như thế nào?,A,Được nêu trong đặc tả
+"Trong tài liệu Public_058, các hành vi ""được đặc tả"" và ""được kiểm thử"" được định nghĩa thuộc tập nào?",B,P và S
+"So sánh kiểm thử hộp trắng và kiểm thử hộp đen, phương pháp nào ưu việt hơn?",A,Kiểm thử hộp trắng
+"Theo tài liệu Public_058, theo mô hình biểu đồ Venn, thiết kế kiểm chứng nên rơi vào miền nào nhiều nhất?",B,Miền 4
+"Theo tài liệu Public_059, kiểm thử tích hợp tập trung vào vấn đề gì?",A,Hoạt động của một module
+"Theo tài liệu Public_059, đâu không phải là một hình thức giao diện giữa nhiều module?",C,Module A gửi thông tin cho module B
+"Ngoài hai cách ghép module thông dụng là top down, bottom up thì còn mấy phương pháp và tên của chúng là?",B,Một. Bigbang
+Nội dung nào không được đề cập trong tài liệu Public_059?,C,Các loại giao diện giữa các module
+Đoạn code ngắn sau định nghĩa giao diện hàm (function interface) như thế nào?,D,Inheritance
+Chương Public_060 sẽ đi qua bao nhiêu ví dụ?,D,Bốn
+"Có tất cả bao nhiêu cách để đi đến nút ""Not A Triangle"" trong bài toán Tam giác, theo tài liệu?",B,Sáu
+"Trong bài toán Ngày kế tiếp, sự phân bố của những loại thực thể nào thường gây ra vấn đề, và liệu việc xác định một thực thể có phụ thuộc vào các thực thể khác không?",C,Năm nhuận. Không
+"Theo tài liệu Public_060, đâu không phải một yếu tố khiến bài toán Tam giác được đề cập trong đó trở nên phổ biến?",C,"Hàm ý người kiểm thử cần đặt ra những trường hợp ""không tầm thường"" (ví dụ input không hợp lệ phải trả về kết quả gì)"
+"Kết quả kiểm tra xem bộ ba số (3, 4, 5) có tạo thành tam giác vuông hay không?",B,Isosceles
+Người kiểm thử cần quan tâm điều gì liên quan đến đặc tả được đề cập trong tài liệu Public_061?,A,"Người thiết lập đặc tả (người thiết kế, lập trình viên)"
+Đâu không phải nguyên tắc cốt lõi của khảo sát đặc tả mức cao theo tài liệu Public_061?,D,"""Hãy phối hợp với đội nhóm và khách hàng"""
+"Mục đích của từ ""luôn luôn"" và ""nào đó"", theo danh sách thẩm định thuật ngữ trong tài liệu Public_061, là hàm ý tính không mơ hồ và tính kiểm chứng của đặc tả?",D,"Tính thuyết phục, tính nhập nhằng"
+Nhận định nào là chính xác về việc kiểm thử đặc tả mức thấp? Chọn hai nhận định,C,Kiểm tra các thuộc tính của các đặc tả
+Đâu không phải một thuật ngữ nhập nhằng trong đặc tả?,C,Chẳng hạn
+Giả định cơ bản nào được áp dụng trong kiểm thử giá trị biên?,C,Tập xác định/tập giá trị có biên/khu cận biên
+Kiểm thử giá trị biên tổ hợp có công thức số ca kiểm thử là hàm số như nào?,B,Bình phương
+Ký hiệu của cận biên max và cận biên min theo tài liệu Public_062 là gì?,B,max- và min+
+"Trong kiểm thử giá trị biên, thông thường có bao nhiêu giá trị kiểm thử cụ thể được lựa chọn xung quanh mỗi giới hạn?",C,Sáu
+"Giả sử một hàm ba biến f(x1, x2, x3) được đem ra kiểm thử giá trị biên, hỏi một ca kiểm thử gốc sẽ cho ra bao nhiêu ca kiểm thử dẫn xuất?",C,12
+Bảng quyết định gồm hai yếu tố chính có tên là?,D,Nguyên nhân và hệ quả
+"Theo tài liệu Public_063, giá trị điều kiện chỉ bó buộc trong T/F, nhận định này đúng hay sai?",C,nan
+"Trong một hệ thống ký hiệu quy trình hoặc trạng thái, ký hiệu cho điều kiện kích hoạt và hành động thực thi lần lượt là gì?",A,T và X
+Tiền đề để sử dụng dấu gạch nối (-) trong văn bản kỹ thuật?,D,Có quá nửa điều kiện sai
+"Đâu là tổ hợp biểu diễn một quy tắc có trạng thái điều kiện lần lượt là (đúng, đúng, tùy ý, sai)?",C,"F, F, T, -"
+"Theo tài liệu Public_064, yếu tố quan trọng nhất của kiểm thử hộp trắng là gì?",B,Trình biên dịch
+Dòng điều khiển được mô hình hóa bằng các phương pháp hoặc mô hình cụ thể nào?,A,Đồ thị vô hướng
+"Trong tài liệu Public_064, có bao nhiêu độ đo được quyết định chỉ dựa trên câu lệnh rẽ nhánh; đó là những độ đo nào?",C,Hai. C3 và C1
+"Theo tài liệu Public_064, có tất cả bao nhiêu độ đo kiểm thử?",A,Một
+"Xét hàm sau:
+if (a == 0) return 0;
+if (a == b) return 1;
+return 2;
+Cần bao nhiêu ca kiểm thử để đảm bảo 100% độ phủ cho độ đo C1?",A,Ba
+Đâu không phải một yếu tố giúp xác định lát cắt được đề cập trong tài liệu Public_065?,C,Thời điểm n
+"Trong tài liệu Public_065, bối cảnh ""các đoạn câu lệnh"" hàm ý gì?",D,Một nhóm câu lệnh có thể tách rời tùy ý
+"Trong xây dựng lát cắt, câu lệnh dạng I-def và I-use đối với biến v sẽ được xử lý như nào? (Trả lời đúng thứ tự)",A,Đều loại bỏ
+Hình thức sử dụng biến nào không bao giờ nằm trong lát cắt của biến đó?,B,O-use
+Câu lệnh `int temp = 31415;` thuộc loại khai báo và khởi tạo biến nào?,B,A-def
+Mục tiêu của mô hình trong kiểm thử dựa trên mô hình?,C,Đánh giá ca kiểm thử
+Đâu không phải một cách biểu diễn một mô hình máy học?,B,Automaton tất định hữu hạn trạng thái (DFA)
+FSM và DFA được biểu diễn bằng bộ mấy thành phần?,B,Bốn và năm
+"Thứ tự của quy trình kiểm tra mô hình? Sắp xếp các bước sau.
+1. Sử dụng mô hình tạo ca kiểm thử
+2. Chạy kịch bản kiểm thử
+3. Đối chiếu kết quả kiểm thử
+4. Đánh giá và phản hồi",A,2-1-3-4
+Điểm nào dưới đây là điểm chung cho hầu hết các hình thức biểu diễn mô hình dữ liệu?,B,"Các hình thức luôn rất phức tạp, loằng ngoằng"
+Đâu là nhân tố đóng góp vào việc phát triển kiểm thử tự động,C,"Kiểm thử thủ công hao tốn tài lực, vật lực"
+Lý do nào không phải thách thức dẫn đến việc đầu tư cao độ vào phát triển công cụ tìm lỗi và kiểm thử tự động?,C,Chất lượng sản phẩm phần mềm nghèo nàn
+Có bao nhiêu bước phân tích trong quy trình được mô tả trong tài liệu Public_067 và tên của chúng là gì?,D,Hai. Phân tích độ phủ và phân tích tĩnh
+"Theo tài liệu Public_067, kiến trúc kiểm thử tự động bao gồm những yếu tố nào?",C,"Đánh giá (so sánh, báo cáo, phân tích)"
+"Trong kiểm thử dựa trên mô hình, những hoạt động nào không được tự động tạo ra từ mô hình mà do con người thực hiện?",B,Chương trình cần kiểm thử
+"Trong giai đoạn tiền xử lý dữ liệu hình ảnh cho hệ thống thị giác máy tính, kỹ thuật nào giúp giảm nhiễu và tăng độ tương phản?",D,Tăng batch size
+Mục tiêu chính của việc chia tập dữ liệu theo tỉ lệ 70/15/15 trong huấn luyện mô hình là gì?,B,"Đảm bảo có tập huấn luyện, kiểm định và kiểm tra cân bằng"
+"Hãy phân tích các bước then chốt trong toàn bộ vòng đời hệ thống thị giác máy tính công nghiệp, từ thu thập dữ liệu hình ảnh đến triển khai và bảo trì, đồng thời nêu rõ vai trò của chuẩn hóa định dạng dữ liệu và kỹ thuật Edge Computing.",A,"Các bước: thu thập dữ liệu đa nguồn, tiền xử lý (cân bằng, loại nhiễu, chuẩn kích thước), xây dựng & huấn luyện mô hình, triển khai (API, PLC/SCADA, edge), giám sát & cập nhật; chuẩn hóa định dạng đảm bảo tính nhất quán cho huấn luyện; Edge Computing giảm độ trễ và tiết kiệm băng thông."
+Kiến trúc tổng thể của giải pháp thị giác máy tính công nghiệp gồm những giai đoạn chính nào?,A,Thu thập & tiền xử lý dữ liệu → Xây dựng & huấn luyện mô hình → Triển khai & giám sát hệ thống
+"Nếu môi trường sản xuất thay đổi ánh sáng thường xuyên nhưng không cập nhật mô hình, hậu quả nào dưới đây có khả năng xảy ra nhất?",D,Hệ thống sẽ tự động bật chế độ bảo trì mà không cần giám sát
+"Theo tài liệu Public_069, những đặc điểm quan trọng nào của dữ liệu chuỗi thời gian cần được xem xét trong việc dự báo?",B,Được thu thập từ nhiều nguồn không đồng bộ
+"Khi thu thập dữ liệu với tần suất cao (high-frequency), thách thức lớn nhất thường là gì?",B,Lưu lượng/ dung lượng lưu trữ và xử lý dữ liệu lớn
+"Trình bày quy trình tổng thể để xây dựng hệ thống quản lý dữ liệu chuỗi thời gian từ khâu xác định nguồn, thu thập, tiền xử lý đến lưu trữ và mở rộng; đồng thời giải thích tầm quan trọng của đồng bộ NTP và chiến lược partitioning.",A,"Quy trình: xác định nguồn (cảm biến, log), đảm bảo timestamp chuẩn NTP, thu thập qua MQTT/gateway, làm sạch & nội suy, chuẩn hóa đơn vị, tạo đặc trưng, lưu TSDB (Influx/Timescale), thiết lập TTL & partitioning, giám sát Prometheus/Grafana, mở rộng bằng microservices & Kubernetes; đồng bộ NTP giữ tính chính xác thời gian; partitioning tăng tốc truy vấn và quản lý dữ liệu lớn."
+"Theo tài liệu Public_069, chuỗi thời gian được lưu trữ hiệu quả thường sử dụng hệ thống hoặc định dạng nào?",C,Không định dạng timestamp chính xác
+"Nếu dữ liệu chuỗi thời gian từ nhiều cảm biến tương quan với nhau được nhóm lại và nén (multi-series group compression), lợi ích nào có thể có được?",C,Giảm độ chính xác vì mất thông tin chi tiết
+Thành phần nào trong kiến trúc 5G cho phép chia mạng thành nhiều “lát” phục vụ các dịch vụ khác nhau?,D,MIMO
+Công nghệ nào giúp tập trung tín hiệu và tăng hiệu quả sử dụng phổ tần trong 5G?,C,Beamforming
+"Hãy mô tả đầy đủ các thành phần kiến trúc chính của mạng 5G, phương pháp triển khai và các cơ chế quản lý dịch vụ & bảo mật, đồng thời nêu rõ vai trò của network slicing và điện toán biên (MEC).",C,"Triển khai chủ yếu dựa vào 4G nâng cấp, không cần MEC; network slicing dùng cho tăng băng thông chung, không tách dịch vụ."
+Phương pháp nào giúp giảm chi phí đầu tư và cho phép nhiều nhà cung cấp thiết bị tham gia triển khai hạ tầng 5G?,A,Triển khai thuần Cloud
+"Trong quản lý chất lượng dịch vụ 5G, nhóm dịch vụ nào phù hợp nhất cho truyền video 8K và VR?",B,eMBB
+Giao thức nào thường được dùng cho thiết bị IoT tiết kiệm băng thông và nhẹ?,C,FTP
+"Theo tài liệu Public_071, phương pháp nào cho phép cập nhật firmware hàng loạt mà không cần tiếp cận vật lý thiết bị?",C,OTA (Over-the-Air)
+"Trình bày kiến trúc đa lớp và quy trình quản lý mạng IoT quy mô hàng triệu thiết bị, đồng thời giải thích cách bảo mật đa tầng (từ thiết bị đến truyền thông) và cơ chế giám sát–phản ứng sự cố.",D,"Kiến trúc 2 lớp (thiết bị–cloud) đủ; bảo mật chỉ cần TLS cơ bản, không cần phân tích dữ liệu lớn."
+"Để bảo vệ dữ liệu trong quá trình truyền, lớp bảo mật nào nên được áp dụng cho kết nối TCP/UDP?",B,TLS/DTLS
+Việc phân nhóm thiết bị IoT theo vị trí địa lý và mức độ quan trọng giúp đạt mục tiêu chính nào?,A,"Ưu tiên cập nhật, vá lỗi hoặc triển khai dịch vụ theo nhu cầu cụ thể"
+"Theo tài liệu Public_072, DRL là sự kết hợp của những lĩnh vực nào?",C,Mô hình hóa thống kê và RL
+Thành phần nào đóng vai trò đưa ra hành động trong DRL?,B,Reward
+"Mô tả quy trình xây dựng hệ thống DRL cho robot công nghiệp từ kiến trúc thành phần đến thuật toán, đồng thời nêu các ứng dụng tiêu biểu và thách thức triển khai thực tế.",C,"Chỉ cần Policy Gradient, bỏ qua các bước mô phỏng; không cần transfer learning; ứng dụng chủ yếu là điều khiển drone."
+Ưu điểm lớn nhất của việc mô phỏng trước khi triển khai trên robot thực là gì?,D,Loại bỏ hoàn toàn nhu cầu dữ liệu
+"Giả sử một robot đã học thành công trong môi trường mô phỏng nhưng thất bại khi hoạt động thực tế, nguyên nhân hợp lý nhất là gì?",B,Do mô hình thiếu khả năng tổng quát và chênh lệch môi trường
+"Theo tài liệu Public_073, ưu điểm nổi bật nhất của Federated Learning trong y tế là gì?",D,Giảm độ phức tạp của mô hình
+Thuật toán tổng hợp trọng số phổ biến trong FL là gì?,C,Federated Averaging (FedAvg)
+"Hãy phân tích nguyên lý hoạt động của Federated Learning và các kỹ thuật bảo mật nâng cao, đồng thời nêu lợi ích và thách thức khi áp dụng trong môi trường y tế đa cơ sở.",D,Hoạt động: các bên trao đổi dữ liệu đầy đủ; bảo mật dựa trên VPN; không gặp vấn đề dữ liệu không đồng nhất.
+Thách thức lớn nhất khi các bệnh viện có đặc điểm dữ liệu khác nhau là gì?,D,Dữ liệu không đồng nhất (Non-IID)
+"Giả sử một bệnh viện có hạ tầng yếu, vấn đề chính khi tham gia FL là gì?",C,Chi phí tính toán cục bộ và thiếu tài nguyên
+Đơn vị thông tin cơ bản trong điện toán lượng tử là gì?,D,Gate
+Thuật toán nào thường dùng để tối ưu hóa tổ hợp trong mạng 6G?,A,Backpropagation
+"Trình bày cách điện toán lượng tử hỗ trợ giải các bài toán tối ưu trong mạng 6G, mô tả các thuật toán lượng tử tiêu biểu và kiến trúc triển khai thực tế.",A,"Ứng dụng Quantum Computing cho phân bổ phổ tần, định tuyến, quản lý năng lượng, lập lịch; thuật toán QAOA, VQE, Grover, Quantum Annealing; kiến trúc hybrid quantum-classical, cloud-quantum, edge computing; lợi ích: tốc độ tính toán, tiết kiệm năng lượng, mở rộng thiết bị IoT; thách thức: phần cứng qubit hạn chế, chuẩn giao thức mới."
+Hình thức triển khai nào cho phép trạm gốc 6G sử dụng tài nguyên lượng tử từ xa?,A,Cloud-Quantum
+"Theo tài liệu Public_074, giải pháp khả thi nhất cho mạng lượng tử khi chưa đủ qubit là gì?",A,Bỏ triển khai 6G
+Pin nào sử dụng chất điện phân rắn thay cho lỏng?,B,Pin Thể Rắn (Solid-State)
+Ưu điểm nổi bật của pin Sodium-Ion là gì?,C,"Nguyên liệu rẻ, dồi dào, hoạt động tốt ở nhiệt độ thấp"
+"Hãy trình bày các công nghệ pin thế hệ mới cho lưới điện thông minh, nêu ưu nhược điểm từng loại và vai trò của AI trong khám phá vật liệu và điều độ năng lượng.",B,Chỉ có pin lithium-ion cải tiến; AI chỉ để điều khiển sạc/xả; không cần công nghệ mới.
+Thách thức lớn của pin Li-S là gì?,A,Sự hình thành polysulfide gây suy giảm dung lượng
+Lợi ích chính của việc tích hợp pin vào lưới điện thông minh là gì?,B,Ổn định điện áp và hỗ trợ năng lượng tái tạo
+Phương pháp truyền thống nào đã trở nên kém hiệu quả trước tấn công mạng hiện đại?,A,Dựa trên chữ ký (Signature-based)
+Mô hình AI nào được thảo luận trong tài liệu Public_076 phù hợp phát hiện tấn công chuỗi thời gian như DDoS?,C,RNN/LSTM
+"Trình bày kiến trúc tổng thể và các kỹ thuật AI chủ chốt trong hệ thống phát hiện – ứng phó sự cố an ninh mạng, đồng thời giải thích vai trò của học sâu và khả năng phản ứng tự động.",A,"Kiến trúc: tầng thu thập (syslog, gói tin), phân tích ML (supervised, unsupervised, semi/self, RL), phát hiện thời gian thực (IDS/IPS), phản ứng SOAR; AI: DNN, RNN/LSTM/GRU, GNN, GAN; phản ứng: tự cách ly thiết bị, cập nhật tường lửa, giảm MTTD xuống vài giây."
+Thách thức nào đặc thù khi huấn luyện AI cho an ninh mạng?,D,Thiếu dữ liệu gắn nhãn và tấn công đối kháng
+"Theo tài liệu Public_076, giải pháp nào cho phép nhiều tổ chức cùng huấn luyện mô hình mà không chia sẻ dữ liệu thô?",A,Federated Learning
+Ưu điểm cốt lõi của blockchain trong chuỗi cung ứng là gì?,A,Tăng dung lượng lưu trữ
+"Trong công nghệ blockchain, thành phần nào đảm bảo các khối không thể chỉnh sửa?",C,Hàm băm (Hash)
+"Mô tả nguyên lý hoạt động của blockchain và cách nó giải quyết minh bạch, chống giả mạo trong chuỗi cung ứng, đồng thời nêu thách thức triển khai.",A,"Nguyên lý: block–hash–consensus (PoS, PBFT, PoA), smart contract tự động thanh toán; ứng dụng: truy xuất nguồn gốc, chống giả, tối ưu vận chuyển, kiểm toán; thách thức: mở rộng, bảo mật dữ liệu nhạy cảm, chuẩn hóa, tích hợp hệ thống hiện hữu."
+Giải pháp nào giúp bảo vệ dữ liệu nhạy cảm trên blockchain?,D,Mã hóa và quyền truy cập theo vai trò
+"Theo tài liệu Public_077, công nghệ nào kết hợp với blockchain để tự động ghi dữ liệu môi trường?",A,AI
+Điện toán biên giải quyết vấn đề độ trễ trong nhà máy thông minh như thế nào?,B,Giảm giá thành thiết bị
+Ưu điểm nổi bật nhất của Edge Computing so với Cloud Computing truyền thống là gì?,B,"Xử lý dữ liệu gần nguồn phát sinh, giảm độ trễ"
+"Giải thích nguyên lý hoạt động, kiến trúc và lợi ích của Edge Computing trong các ứng dụng thời gian thực công nghiệp, kèm các ví dụ tiêu biểu.",A,"Nguyên lý: xử lý dữ liệu tại biên (sensor→edge→cloud), giảm độ trễ, tiết kiệm băng thông, tăng bảo mật; kiến trúc 3 tầng thiết bị–biên–đám mây; ứng dụng: robot hợp tác, bảo trì dự đoán, kiểm soát chất lượng, AR bảo dưỡng, quản lý năng lượng."
+"Nếu kết nối Internet bị gián đoạn, hệ thống Edge sẽ phản ứng thế nào?",A,Vẫn tiếp tục hoạt động và xử lý cục bộ
+Lợi ích bảo mật lớn nhất của Edge Computing trong môi trường sản xuất là gì?,C,"Giữ dữ liệu nhạy cảm tại chỗ, hạn chế rò rỉ"
+Điểm mạnh lớn nhất của CNN trong phân tích ảnh y tế là gì?,A,Dựa vào đặc trưng thủ công
+Mạng nào chuyên biệt cho bài toán phân đoạn ảnh y tế?,B,DenseNet
+"Phân tích nguyên lý, cấu trúc mạng CNN và lợi ích khi áp dụng trong phân tích ảnh y tế, nêu các ứng dụng điển hình.",A,"Nguyên lý: convolution, pooling, fully connected, shared weights, local receptive field; lợi ích: trích xuất đặc trưng tự động, bất biến vị trí, tổng quát cao; ứng dụng: chẩn đoán X-quang, MRI/CT, phân đoạn polyp, nhận diện tế bào, hỗ trợ phẫu thuật thông minh."
+Thách thức lớn khi triển khai mạng nơ-ron tích chập (CNN) trong bệnh viện là gì?,B,Tốc độ xử lý chậm hơn con người
+Một xu hướng mới giúp mạng nơ-ron tích chập đảm bảo quyền riêng tư dữ liệu y tế là gì?,B,Federated Learning
+Lợi ích lớn nhất của Generative AI trong thiết kế thuốc là gì?,D,Loại bỏ nhu cầu dữ liệu
+"Theo tài liệu Public_080, mô hình nào thường dùng để sinh phân tử mới?",B,RNN
+"Trình bày vai trò của Generative AI và các mô hình điển hình trong thiết kế thuốc, đồng thời nêu ứng dụng thực tế.",A,"Mô hình: GAN, VAE, Diffusion, transformer LLM; cơ chế: tạo phân tử mới, reinforcement learning tối ưu đặc tính dược; ứng dụng: tìm hợp chất kháng virus, kháng sinh Halicin, dự đoán tương tác phân tử; lợi ích: rút ngắn thời gian, giảm chi phí."
+Thách thức quan trọng nhất khi đưa phân tử do AI tạo ra vào thực nghiệm là gì?,B,Tính bảo mật kém
+Xu hướng nào giúp nhiều tổ chức cùng huấn luyện mô hình AI mà vẫn giữ bí mật dữ liệu hóa học?,B,Federated Learning
+Đặc điểm nào khiến GNN phù hợp cho dữ liệu vật liệu?,D,Chỉ cần một lớp mạng
+"Từ tài liệu Public_081, những ứng dụng nào là điểm mạnh của GNN trong khoa học vật liệu?",C,Dự đoán tính chất điện và cơ học của hợp chất mới
+"Giải thích cách GNN biểu diễn vật liệu, cơ chế message passing và các ứng dụng trong dự đoán tính chất vật liệu mới.",A,"Biểu diễn: node=nguyên tử, edge=liên kết; message passing nhiều tầng, graph readout tạo vector; mô hình: GCN, GAT, MPNN, SchNet; ứng dụng: pin thế hệ mới, vật liệu siêu dẫn, hợp kim nhẹ, polyme chức năng; lợi ích: khám phá nhanh, tiết kiệm chi phí, tổng quát cao."
+Thách thức chính khi dùng GNN trong khám phá vật liệu là gì?,D,Dữ liệu dư thừa
+Hướng phát triển tương lai đầy tiềm năng của GNN trong vật liệu là gì?,C,Chỉ dùng dữ liệu văn bản
+Tại sao HPC cần thiết cho mô phỏng khí hậu toàn cầu?,D,Đơn giản hóa bản đồ địa hình
+Thành phần phần cứng cốt lõi nào giúp hệ thống HPC tối ưu hóa xử lý song song?,C,Cụm CPU/GPU kết nối tốc độ cao (InfiniBand)
+"Trình bày kiến trúc HPC và vai trò trong mô phỏng khí hậu, dự báo thời tiết cực đoan, nêu công nghệ hỗ trợ.",A,"Kiến trúc: hàng chục nghìn CPU/GPU, InfiniBand, domain decomposition, Navier–Stokes; ứng dụng: dự báo khí hậu 100 năm, cảnh báo bão/lũ, theo dõi cháy rừng; công nghệ: GPU, ML+HPC, cloud-hybrid, lưu trữ petabyte; lợi ích: tăng độ chính xác, giảm thời gian tính toán."
+Thách thức lớn nhất về vận hành siêu máy tính khí hậu là gì?,D,Không thể ghép nối dữ liệu
+Xu hướng tương lai giúp tăng tốc mô phỏng khí hậu là gì?,B,Exascale Computing kết hợp AI
+Đặc điểm nào nổi bật nhất của 6G so với 5G?,B,"Tốc độ terabit/giây và độ trễ dưới 0,1 ms"
+Dải tần nào sẽ được khai thác chủ yếu trong 6G?,C,"Terahertz (0,1–10 THz)"
+"Giải thích đặc trưng cốt lõi của 6G và vai trò AI trong tối ưu và bảo mật mạng, nêu các ứng dụng tiêu biểu.",A,"Đặc trưng: 1 Tbps, độ trễ <0.1 ms, phổ THz, vệ tinh–mặt đất, SDN/NFV; AI: tối ưu phổ tần động, mạng tự trị, dự báo lưu lượng, bảo mật thông minh; ứng dụng: metaverse XR, xe tự hành, y tế từ xa, cảm biến môi trường."
+Ứng dụng nào cần 6G để đạt độ trễ siêu thấp?,A,Phẫu thuật robot thời gian thực
+Thách thức chính khi triển khai 6G là gì?,C,Giảm băng thông
+Cảm biến nào cung cấp bản đồ 3D chính xác cho xe tự hành?,D,IMU
+Kỹ thuật nào giúp hợp nhất dữ liệu từ nhiều cảm biến khác nhau nhằm nâng cao độ chính xác và độ tin cậy của thông tin?,C,Sensor Fusion
+"Mô tả các thành phần cảm biến, thuật toán và thách thức của hệ thống thị giác máy tính thế hệ tiếp theo cho xe tự hành.",A,"Thành phần: camera RGB/IR, LiDAR, radar mmWave, sensor fusion; thuật toán: CNN, RNN, object detection, semantic segmentation, tracking; thách thức: môi trường đa dạng, thời tiết khắc nghiệt, ánh sáng yếu; ứng dụng: điều khiển cao tốc, đỗ xe tự động, phẫu thuật robot từ xa."
+Thách thức quan trọng nhất đối với xử lý thời gian thực trong xe tự hành là gì?,C,Mạng 5G không đủ
+"Theo tài liệu Public_084, xu hướng tương lai nào cho phép xe giao tiếp trực tiếp với hạ tầng giao thông?",B,Vehicle-to-Everything (V2X)
+Kỹ thuật nào cho phép robot học từ phản hồi môi trường để tối ưu hành động?,B,Học tăng cường (Reinforcement Learning)
+Cảm biến nào giúp robot điều chỉnh lực cầm nắm chính xác?,D,Cảm biến xúc giác và lực
+"Nêu chi tiết cách các cơ chế học của robot công nghiệp tự học được áp dụng để cải thiện thuật toán lập kế hoạch đường đi trong môi trường nhà máy thông minh, kèm theo các ví dụ thực tiễn.",A,"Thuật toán: A*, D*, PRM, ZMP, PID; học tăng cường, học chuyển giao, thị giác 3D, cảm biến lực, Edge AI; ứng dụng: lắp ráp linh kiện, hàn sơn, đóng gói, bảo trì, cobots; lợi ích: linh hoạt, an toàn, tối ưu sản xuất."
+Thách thức quan trọng khi triển khai robot tự học là gì?,C,Đảm bảo an toàn tuyệt đối khi hoạt động cùng con người
+Phương pháp nào giảm chi phí huấn luyện robot trong thế giới thực?,D,Điều khiển PID
+"Theo tài liệu Public_086, lợi ích lớn nhất của AI trong quản lý năng lượng tái tạo là gì?",B,Dự báo và tối ưu phân phối năng lượng theo thời gian thực
+Công nghệ nào cho phép xử lý dữ liệu nhanh ngay tại nguồn phát sinh?,D,AR/VR
+"Phân tích vai trò của AI trong dự báo, tối ưu và điều phối năng lượng tái tạo cho thành phố thông minh, đồng thời nêu rõ hạ tầng công nghệ hỗ trợ.",A,"AI dự báo sản lượng điện (Deep Learning dựa thời tiết), tối ưu phân phối và lưu trữ pin, điều khiển microgrid tự động; hạ tầng: mạng IoT, edge computing, cloud, giao thức mở"
+Thách thức chính trong việc triển khai AI quản lý năng lượng tái tạo là gì?,D,Không cần lưu trữ
+Xu hướng nào cho phép giao dịch điện năng trực tiếp giữa các hộ dân?,B,Blockchain kết hợp AI
+Yếu tố chính khiến AI quan trọng trong giám sát chất lượng không khí đô thị?,B,Dự báo và phân tích dữ liệu môi trường khổng lồ theo thời gian thực
+Công nghệ nào kết hợp dữ liệu cảm biến và vệ tinh để dự đoán ô nhiễm?,D,Học sâu (Deep Learning) với dữ liệu đa nguồn
+Mô tả kiến trúc cảm biến và vai trò của trí tuệ nhân tạo (AI) trong dự báo và phát hiện bất thường về chất lượng không khí đô thị.,A,"Mạng cảm biến IoT + dữ liệu vệ tinh, AI (LSTM/Transformer) dự báo PM2.5/O₃, phát hiện cháy rừng, rò rỉ hóa chất, tối ưu giao thông & năng lượng, đề xuất chính sách giảm ô nhiễm"
+"Theo tài liệu Public_087, thách thức lớn khi triển khai hệ thống AI giám sát không khí là gì?",A,Độ chính xác và bảo mật dữ liệu cảm biến
+Những công nghệ hoặc phương pháp luận tương lai nào hỗ trợ việc thử nghiệm chính sách môi trường trong mô hình ảo?,D,Máy in 3D
+Lợi thế lưu trữ của DNA so với ổ cứng truyền thống là gì?,B,"Mật độ lưu trữ cực cao, lên đến hàng trăm petabyte/gram"
+Quá trình nào trong DNA đóng vai trò như cổng logic trong tính toán sinh học?,C,Phản ứng lai ghép và enzyme cắt
+"Giải thích nguyên lý tính toán dựa trên DNA và các ứng dụng nổi bật trong y sinh học, đồng thời nêu ưu thế so với máy tính silicon.",A,"Dữ liệu mã hóa bằng A/T/C/G, phản ứng hóa học như cổng logic, tính toán song song, tự sửa lỗi; ứng dụng chẩn đoán bệnh, điều trị chính xác, lưu trữ dữ liệu y tế; ưu thế: mật độ lưu trữ khổng lồ, tiêu thụ năng lượng thấp, tự phục hồi"
+Thách thức lớn nhất của biocomputing hiện nay là gì?,D,Không thể lưu trữ dữ liệu số
+Xu hướng nào cho phép kết hợp ưu điểm của điện tử và DNA?,D,Lưới điện thông minh
+Hiện tượng nào đặc trưng của vật liệu siêu dẫn?,C,Tự phát sáng
+Hợp chất nào đã cho thấy siêu dẫn gần nhiệt độ phòng khi nén áp suất cao?,B,Đồng-oxit
+Tài liệu Public_089 trình bày những tiến bộ nào trong việc đạt siêu dẫn nhiệt độ phòng?,D,"Không liên quan truyền tải điện, chỉ cho từ trường nghiên cứu"
+Thách thức lớn nhất để thương mại hóa siêu dẫn nhiệt độ phòng?,C,Dễ sản xuất hàng loạt
+Công nghệ nào hỗ trợ khám phá vật liệu siêu dẫn mới nhanh hơn?,B,Trí tuệ nhân tạo và tính toán lượng tử
+Điểm khác biệt cốt lõi của máy tính neuromorphic so với kiến trúc Von Neumann là gì?,B,"Xử lý và lưu trữ dữ liệu ngay tại neuron, mô phỏng não người"
+"Trong các mạng thần kinh nhân tạo, thành phần nào đóng vai trò tương tự synapse sinh học?",B,Tụ điện
+"Mô tả kiến trúc và nguyên lý của máy tính neuromorphic lấy cảm hứng từ não người, so sánh với kiến trúc Von Neumann và nêu ứng dụng AI.",D,Tiêu thụ năng lượng cao như siêu máy tính
+Ứng dụng nào nổi bật của chip neuromorphic trong y tế?,A,Giao diện não–máy (BCI) và cấy ghép thần kinh
+Thách thức lớn nhất trong thương mại hóa chip neuromorphic hiện nay là gì?,D,Thiếu dữ liệu huấn luyện
+Điểm khác biệt lớn nhất của pin thể rắn so với pin lithium-ion truyền thống là gì?,C,Không dùng cực dương
+Ưu điểm quan trọng nhất giúp pin thể rắn an toàn hơn?,C,Không chứa dung dịch dễ cháy
+"Dựa trên tài liệu Public_091, hãy phân tích cấu trúc, nguyên lý, ưu điểm của pin thể rắn so với lithium-ion, nêu ứng dụng thực tế và thách thức.",A,"Cực dương oxit Li, cực âm lithium kim loại, điện phân rắn; ưu điểm: 400–500 Wh/kg, an toàn, sạc nhanh, tuổi thọ dài; ứng dụng EV, lưu trữ năng lượng, hàng không; thách thức: chi phí, giao diện điện cực, dendrite"
+Thách thức chính cản trở thương mại hóa pin thể rắn là gì?,D,Chi phí sản xuất và khó khăn giao diện điện cực – điện phân
+"Theo tài liệu Public_091, những xu hướng nghiên cứu nào giúp tăng tính ổn định của pin thể rắn?",A,Chất điện phân lai gốm–polymer
+Điểm đặc trưng của siêu vật liệu so với vật liệu tự nhiên là gì?,B,Cấu trúc nhân tạo điều khiển sóng ngoài khả năng tự nhiên
+Công nghệ nào trong mạng 6G tận dụng siêu vật liệu để tăng vùng phủ sóng?,C,Bề mặt phản xạ thông minh (RIS)
+"Giải thích cấu trúc, nguyên lý và ứng dụng siêu vật liệu trong điều khiển sóng điện từ và mạng 6G.",A,"Unit cell nhỏ hơn bước sóng, khúc xạ âm, metasurface tái cấu hình, tăng tốc terabit/giây, RIS tăng phủ sóng, bảo mật tín hiệu"
+Thách thức lớn nhất hiện nay khi thương mại hóa siêu vật liệu?,A,Tốc độ sóng chậm
+"Theo tài liệu Public_092, xu hướng nào hứa hẹn tối ưu hoạt động RIS trong 6G?",A,AI điều khiển metasurface theo thời gian thực
+Điểm khác biệt chính của máy tính quang học so với điện tử?,A,Sử dụng electron truyền tải
+Thành phần nào cho phép thực hiện phép nhân–cộng ma trận bằng ánh sáng?,D,Giao thoa kế Mach–Zehnder và mạch quang tích hợp
+"Trình bày nguyên lý tính toán bằng photon, lợi ích và ứng dụng trong AI thế hệ mới.",A,"Truyền và xử lý thông tin bằng photon qua mạch quang, tính toán song song đa bước sóng, tốc độ gần ánh sáng, giảm năng lượng; ứng dụng: huấn luyện mô hình lớn, edge AI, mạng lượng tử"
+Thách thức quan trọng nhất trong sản xuất chip quang?,C,Không thể hoạt động trên silicon
+Ứng dụng nào hưởng lợi trực tiếp từ suy luận thời gian thực của photonic computing?,C,Máy in 3D
+Công cụ chính để mô phỏng sự hình thành vũ trụ được thảo luận trong tài liệu Public_094 là gì?,D,Tàu vũ trụ
+"Theo tài liệu Public_094, mô phỏng N-body chủ yếu tái hiện điều gì?",B,Địa chất Mặt Trăng
+"Mô tả mục tiêu, công nghệ mô phỏng và ứng dụng của vũ trụ học tính toán trong nghiên cứu vũ trụ.",A,"Dùng phương trình Einstein, mô phỏng N-body, thủy động lực học, AI tăng tốc, mô phỏng hàng tỷ hạt; ứng dụng: giải mã vật chất tối, dự báo quan sát, ước lượng tham số vũ trụ học"
+Thách thức lớn nhất hiện nay của vũ trụ học tính toán là gì?,D,Không có thuật toán
+Công nghệ tương lai nào hứa hẹn tăng độ phân giải mô phỏng vũ trụ?,C,Blockchain
+Thách thức lớn nhất của Sao Hỏa khiến nước khó tồn tại ở dạng lỏng?,D,Lõi hành tinh nóng
+Biện pháp nào có thể tạo từ trường nhân tạo cho Sao Hỏa?,A,Dùng khinh khí cầu
+"Phân tích các phương pháp cải tạo khí hậu Sao Hỏa, công nghệ hỗ trợ và thách thức đạo đức – kỹ thuật.",A,"Tăng áp suất CO₂, gương không gian, khí nhà kính nhân tạo, từ trường nhân tạo, vi khuẩn lam; công nghệ: robot, AI, in 3D, lò phản ứng hạt nhân; thách thức: chi phí, bức xạ, chính trị quốc tế"
+"Theo tài liệu Public_095, công nghệ nào giúp xây dựng cơ sở hạ tầng tự động trên Sao Hỏa?",D,Tàu ngầm
+Public_095 thảo luận về những vấn đề đạo đức nào liên quan đến việc terraform Sao Hỏa?,A,Khả năng phá hủy sự sống bản địa (nếu tồn tại)
+Điều kiện cần thiết để quá trình nhiệt hạch xảy ra là gì?,D,Phản ứng phân rã phóng xạ
+Lò phản ứng Tokamak là gì?,C,Lò phản ứng nước áp lực
+"Phân tích nguyên lý hoạt động, nhiên liệu, ưu điểm và các công nghệ lò phản ứng nhiệt hạch, đồng thời nêu các thách thức kỹ thuật – kinh tế trong thương mại hóa.",A,"Phản ứng Deuterium–Tritium >100 triệu °C, giam giữ từ trường (tokamak, stellarator) hoặc laser; nhiên liệu deuterium từ nước biển, tritium từ lithium; ưu điểm: sạch, không CO₂, ít phóng xạ, an toàn tự dừng; thách thức: giam giữ plasma, vật liệu chịu nhiệt, đạt breakeven kinh tế"
+Dự án quốc tế nào đang xây dựng lò phản ứng 500 MW ở Pháp?,B,Wendelstein 7-X
+"Theo tài liệu Public_096, thách thức kỹ thuật trọng yếu của nhiệt hạch là gì?",C,Nhiệt độ quá thấp
+Sản phẩm phụ duy nhất của pin nhiên liệu hydro là gì?,A,CO₂
+Ưu điểm lớn của hydro so với pin lithium-ion cho xe tải đường dài?,D,Mật độ năng lượng cao và nạp nhiên liệu nhanh
+"Giải thích nguyên lý pin nhiên liệu hydro và ứng dụng trong giao thông, đồng thời nêu lợi ích và thách thức hạ tầng.",A,"H₂ + O₂ → điện + nước; ưu điểm: mật độ năng lượng cao, nạp nhanh, không CO₂; ứng dụng: xe hơi, xe tải, tàu biển, hàng không; thách thức: chi phí hydro xanh, hạ tầng trạm nạp, an toàn rò rỉ"
+Thách thức lớn nhất để triển khai đại trà giao thông hydro?,D,Thiếu pin lithium
+Hãng xe nào đã thương mại hóa xe hơi chạy pin nhiên liệu hydro?,A,Tesla
+Cơ chế lưu trữ năng lượng của siêu tụ điện dựa trên gì?,D,Đốt cháy nhiên liệu
+Ưu điểm nổi bật giúp siêu tụ phù hợp cho xe buýt điện đô thị?,D,Sạc/xả cực nhanh và tuổi thọ cao
+"Trình bày cơ chế hoạt động, ưu điểm, và ứng dụng của siêu tụ điện trong giao thông bền vững, đồng thời so sánh với pin truyền thống.",A,"Lưu trữ năng lượng qua điện dung hai lớp và giả điện dung; sạc/xả cực nhanh, tuổi thọ >1 triệu chu kỳ, công suất cao, hoạt động -40→65 °C; ứng dụng: xe buýt điện, tàu điện, xe hybrid, máy bay nhỏ; kết hợp pin để giảm tải và tăng tuổi thọ"
+Ứng dụng nào tận dụng siêu tụ để thu hồi năng lượng phanh?,A,Tàu điện và metro
+Hạn chế chính của siêu tụ điện so với pin lithium-ion là gì?,B,Mật độ năng lượng thấp hơn
+Ưu điểm lớn nhất của pin natri-ion so với pin lithium-ion là gì?,B,Nguồn nguyên liệu dồi dào và chi phí thấp
+Thách thức kỹ thuật chính của pin natri-ion hiện nay?,D,Không thể tái chế
+"Mô tả cấu trúc, cơ chế và lợi ích chiến lược của pin natri-ion, nêu ứng dụng thực tế và các thách thức hiện nay.",A,"Hoạt động tương tự pin lithium-ion nhưng dùng Na⁺; ưu điểm: nguyên liệu rẻ, dồi dào, ổn định nhiệt độ thấp, bền vững chuỗi cung ứng; ứng dụng: lưu trữ năng lượng tái tạo, xe điện đô thị, thiết bị IoT; thách thức: mật độ năng lượng thấp hơn, vật liệu điện cực, chuẩn hóa công nghiệp"
+Công ty nào công bố pin natri-ion thương mại đầu tiên?,A,Tesla
+Lợi ích xã hội quan trọng khi phát triển pin natri-ion?,C,Giảm tuổi thọ thiết bị
+Điện toán không gian kết hợp những công nghệ nào để tạo trải nghiệm 3D thực?,A,Chỉ có cảm biến nhiệt
+Ứng dụng nào minh họa rõ nhất lợi ích của điện toán không gian trong y tế?,B,Tạo ảnh 2D
+"Giải thích khái niệm, thành phần cốt lõi và các ứng dụng tiêu biểu của điện toán không gian, đồng thời phân tích thách thức triển khai.",A,"Kết hợp VR, AR, IoT, AI nhận thức không gian; cảm biến 3D, LiDAR, Edge Computing, mạng 5G/6G; ứng dụng: y tế từ xa, giáo dục ảo, sản xuất, thương mại, giải trí; thách thức: chi phí thiết bị, băng thông, bảo mật dữ liệu cá nhân"
+Cấu hình hạ tầng mạng nào cần thiết để đảm bảo độ trễ thấp và băng thông cao cho trải nghiệm thực tế ảo (VR) mượt mà?,A,"5G/6G băng thông cao, độ trễ thấp"
+Những xu hướng công nghệ tương lai quan trọng nào trong lĩnh vực điện toán không gian dự kiến sẽ tác động đến các ngành công nghiệp chính trong 5 năm tới?,B,Giảm độ phân giải hình ảnh
